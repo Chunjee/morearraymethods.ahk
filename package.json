@@ -1,0 +1,13 @@
+{
+    "name": "morearraymethods.ahk",
+    "version": "0.0.1",
+    "description": "More methods for ahk arrays",
+    "main": "export.ahk",
+    "dependencies": {},
+    "devDependencies": {
+        "json.ahk": "github:chunjee/json.ahk",
+        "unit-testing.ahk": "github:chunjee/unit-testing.ahk"
+    },
+    "author": "Shawn Brooker",
+    "license": "MIT"
+}
